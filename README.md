@@ -27,3 +27,15 @@ DSA Mentorship Repository for reference
 22.	[Nuts and bolts problem]()</br>
 23.	[Trapping rain water]()</br>
 24.	[Merge 2 sorted arrays in O(1) space]()</br>
+
+## WEEK 2 - STRINGS
+## WEEK 3 - LINKED LISTS
+## WEEK 4 - TREES
+## WEEK 5 - STACKS AND QUEUES
+## WEEK 6 - GRAPH
+## WEEK 7 - MATRIX
+## WEEK 8 - HEAP
+## WEEK 9 - HASHING
+## WEEK 10 - BST
+## WEEK 11 - DYNAMIC PROGRAMMING
+## WEEK 12 - BONUS!
