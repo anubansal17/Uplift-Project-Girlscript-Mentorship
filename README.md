@@ -14,19 +14,19 @@ DSA Mentorship Repository for reference
 9.	[Product array](http://www.geeksforgeeks.org/a-product-array-puzzle/)</br>
 10.	[Find 2 repeating elements](http://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)</br>
 11.	[Find duplicates in O(n) time and O(1) space](http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)</br>
-12.	[Linked list vs Array]()</br>
-13.	[Find the smallest missing number]()</br>
-14.	[Find max j-i such that arr[j] > arr[i]]()</br>
-15.	[Find subarray with given sum]()</br>
-16.	[Find the smallest positive number missing from an unsorted array]()</br>
-17.	[Find 2 numbers with odd occurence]()</br>
-18.	[Largest subarray with equal number of 0s and 1s]()</br>
-19.	[Replace every element with the greatest on right side]()</br>
-20.	[Stock buy sell to maximize profit]()</br>
-21.	[Find common elements in 3 sorted arrays]()</br>
-22.	[Nuts and bolts problem]()</br>
-23.	[Trapping rain water]()</br>
-24.	[Merge 2 sorted arrays in O(1) space]()</br>
+12.	[Linked list vs Array](http://www.geeksforgeeks.org/linked-list-vs-array/)</br>
+13.	[Find the smallest missing number](http://www.geeksforgeeks.org/find-the-first-missing-number/)</br>
+14.	[Find max j-i such that arr[j] > arr[i]](http://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/)</br>
+15.	[Find subarray with given sum](http://www.geeksforgeeks.org/find-subarray-with-given-sum/)</br>
+16.	[Find the smallest positive number missing from an unsorted array](http://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/)</br>
+17.	[Find 2 numbers with odd occurence](http://www.geeksforgeeks.org/find-the-two-numbers-with-odd-occurences-in-an-unsorted-array/)</br>
+18.	[Largest subarray with equal number of 0s and 1s](http://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/)</br>
+19.	[Replace every element with the greatest on right side](http://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/)</br>
+20.	[Stock buy sell to maximize profit](http://www.geeksforgeeks.org/stock-buy-sell/)</br>
+21.	[Find common elements in 3 sorted arrays](http://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/)</br>
+22.	[Nuts and bolts problem](http://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/)</br>
+23.	[Trapping rain water](http://www.geeksforgeeks.org/trapping-rain-water/)</br>
+24.	[Merge 2 sorted arrays in O(1) space](http://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/)</br>
 
 ## WEEK 2 - STRINGS
 ## WEEK 3 - LINKED LISTS
