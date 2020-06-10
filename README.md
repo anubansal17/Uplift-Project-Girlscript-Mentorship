@@ -38,9 +38,9 @@ DSA Mentorship Repository for reference
 6. [Find the smallest window in a string containing all the characters of the second string](http://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/)</br>
 7. [Check whether two strings are anagrams of each other](http://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/)</br>
 8. [Write your own atoi()](http://www.geeksforgeeks.org/write-your-own-atoi/)</br>
-9. [Rearrange a string so that similar characters become d distance away](http://www.geeksforgeeks.org/rearrange-a-string-so-that-all-same-characters-become-at-least-d-distance-away/)</br>
-10.[Longest Common Subsequence](http://www.geeksforgeeks.org/printing-longest-common-subsequence/)</br>
-11.[Find excel column name from a given column number](http://www.geeksforgeeks.org/find-excel-column-name-given-number/)</br>
+9. [Rearrange a string so that similar characters become d distance away](http://www.geeksforgeeks.org/rearrange-a-string-so-that-all-same-characters-become-at-least-d-distance-away/) </br>
+10. [Longest Common Subsequence](http://www.geeksforgeeks.org/printing-longest-common-subsequence/)</br>
+11. [Find excel column name from a given column number](http://www.geeksforgeeks.org/find-excel-column-name-given-number/)</br>
 ## WEEK 3 - LINKED LISTS
 - Practice Questions:
 1. [Get Nth node in a linked list](http://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/)</br>
@@ -73,7 +73,8 @@ DSA Mentorship Repository for reference
 28. [XOR linked list | Set 2](http://www.geeksforgeeks.org/xor-linked-list-a-memory-efficient-doubly-linked-list-set-2/)</br>
 29. [Flatten a linked list](http://www.geeksforgeeks.org/flattening-a-linked-list/)</br>
 30. [Add 2 numbers represented by linked lists | Set 2](http://www.geeksforgeeks.org/sum-of-two-linked-lists/)</br>
-31. [Flatten a multilevel linked list](http://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/)( Geeks solution has a bug. They are not doing cur->child = NULL after appending it to the tail->next. Looks like there is another bug. In the end we need to check for the child of tail node also i.e child of node 15 in the given case.The loop termination condition should not be cur!=tail. It should be cur!!=NULL. You better see [this](http://stackoverflow.com/a/24518048/2636873) solution instead )</br>
+31. [Flatten a multilevel linked list](http://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/)</br>
+(Geeks solution has a bug. They are not doing cur->child = NULL after appending it to the tail->next. Looks like there is another bug. In the end we need to check for the child of tail node also i.e child of node 15 in the given case.The loop termination condition should not be cur!=tail. It should be cur!!=NULL. You better see [this](http://stackoverflow.com/a/24518048/2636873) solution instead )</br>
 32. [Clone a linked list with next and random pointer | Set 2](http://www.geeksforgeeks.org/clone-linked-list-next-arbit-pointer-set-2/)</br>
 
 ## WEEK 4 - TREES
