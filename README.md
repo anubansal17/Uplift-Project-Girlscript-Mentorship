@@ -10,7 +10,7 @@ DSA Mentorship Repository for reference
 5.	[Rotate an array](http://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/)</br>
 6.	[Leaders in an array](http://www.geeksforgeeks.org/leaders-in-an-array/)</br>
 7.	[Majority element in sorted array](http://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/)</br>
-8.	[Segregate 0s and 1s in an array](http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)</br>
+8.	[Segregate 0s and 1s in an array](http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/) </br>
 9.	[Product array](http://www.geeksforgeeks.org/a-product-array-puzzle/)</br>
 10.	[Find 2 repeating elements](http://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/)</br>
 11.	[Find duplicates in O(n) time and O(1) space](http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/)</br>
